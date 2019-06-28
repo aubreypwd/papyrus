@@ -1,6 +1,6 @@
 {
 	"name": "aubreypwd/papyrus",
-	"description": "",
+	"description": "WordPress Plugin easteregg, when someone types papyrus it converts the entire site font to it.",
 	"homepage": "https://github.com/aubreypwd/papyrus",
 	"license": "GPL-2.0+",
 	"support": {
