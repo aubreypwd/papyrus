@@ -1,0 +1,30 @@
+/* sass-lint:disable-all */
+
+/**
+ * Make the page Papyrus
+ *
+ * @author Aubrey Portwood <code@aubreypwd.com>
+ *
+ * @since  1.0.0
+ */
+
+body.papyrus,
+body.papyrus p,
+body.papyrus ol,
+body.papyrus ul,
+body.papyrus div,
+body.papyrus section,
+body.papyrus article,
+body.papyrus h1,
+body.papyrus aside,
+body.papyrus input,
+body.papyrus h2,
+body.papyrus h3,
+body.papyrus h4,
+body.papyrus h5,
+body.papyrus h6,
+body.papyrus a,
+body.papyrus table
+{
+	font-family: 'Papyrus' !important;
+}

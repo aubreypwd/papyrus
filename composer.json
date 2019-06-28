@@ -1,0 +1,22 @@
+{
+	"name": "aubreypwd/papyrus",
+	"description": "",
+	"homepage": "https://github.com/aubreypwd/papyrus",
+	"license": "GPL-2.0+",
+	"support": {
+		"issues": "https://github.com/aubreypwd/papyrus/issues",
+		"source": "https://github.com/aubreypwd/papyrus"
+	},
+	"type": "wordpress-plugin",
+	"require": {
+		"composer/installers": "~1.0"
+	},
+	"extra": {
+		"installer-name": "aubreypwd-papyrus"
+	},
+	"autoload": {
+		"psr-4": {
+			"aubreypwd\\Papyrus\\": "src/"
+		}
+	}
+}
