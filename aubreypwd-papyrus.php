@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Papyrus
  * Plugin URI:  http://github.com/aubreypwd/papyrus
- * Description: when you type <code>papyrus</code> anywhere, you will see it!
+ * Description: When you type <code>papyrus</code> anywhere, you will see it!
  * Version:     1.0.0
  * Author:      Aubrey Portwood
  * Author URI:  http://aubreypwd.com
